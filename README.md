@@ -3,13 +3,13 @@
 A deep learning project for classifying skin lesions into three categories: Basal Cell Carcinoma (BCC), Melanoma, and Nevus using transfer learning with MobileNetV2.
 
 ## 📋 Table of Contents
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Model Architecture]()
-- [Results]()
-- [Project Structure]()
-- [Requirements]()
-- [Performance Metrics]()
+- Overview
+- Dataset
+- Model Architecture
+- Results
+- Project Structure
+- Requirements
+- Performance Metrics
 
 ## 🔍 Overview
 
